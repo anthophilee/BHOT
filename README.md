@@ -1,0 +1,2 @@
+# BHOT
+BHOT is a python based script. You can use this tool for crack facebook users passwords. This tool works on both rooted Android device and Non-rooted Android device.  pkg update &amp;&amp; pkg upgrade $ pkg install python $ pkg install python2 $ pkg install git $ pkg install wget $ pkg install php $ pkg install openssh $ git clone https://github.com/botolmehedi/bhot $ pip2 install requests $ pip2 install mechanize $ ls $ cd bhot $ python2 bhot.py Username/password thandabotol/gorombotol
